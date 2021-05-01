@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
 //        method();
         work();
+        //cal hw
     }
 
 
@@ -76,7 +77,7 @@ public class Main {
         int x = ran.nextInt(2) + 5;
         System.out.println(x);
     }
-    
+
     public  static void calculator(){
 
     }
